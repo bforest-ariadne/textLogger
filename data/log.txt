@@ -1,0 +1,10 @@
+Log [Mon May 20 2019 15:09:58 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:10:14 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:10:14 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:10:14 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:10:15 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:17:29 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:17:29 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:17:29 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:17:33 GMT-0400 (EDT)]: the text I want in the log file
+Log [Mon May 20 2019 15:17:33 GMT-0400 (EDT)]: the text I want in the log file
